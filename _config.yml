@@ -10,11 +10,10 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Vijayalakshmi Bhagat # add your name
-author-img: ![social_media](https://user-images.githubusercontent.com/35403041/76678752-67755f80-6600-11ea-8d0a-e44164a34e93.png)
- # add your photo
+author-img: vizzy-bhagat.jpg # add your photo
 about-author: I am a software developer having completed my graduate degree, B.E. in Computer Science. My interests lie in Data Science and Machine Learning internships and job opportunities. Has a passion to keep learning. A wannabe polymath # add description
-social-twitter: #
-social-facebook: #
+social-twitter: anonymous #
+social-facebook: anonymous #
 social-github: vizzybhagat # add your Github handle
 social-linkedin: vijayalakshmi-bhagat-40a90b14a/ # add your Linkedin handle
 social-email: vijayalakshmibhagat205@gmail.com # add your Email address
