@@ -1,19 +1,17 @@
-title: Hello, everyone! I am Vijayalakshmi Bhagat
+title: Hello, everyone! I am Vijayalakshmi Bhagat.
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 permalink: ':title/'
 baseurl: "/profile" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "http://VijayalakshmiBhagatProfile.com" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
-author: Vijayalkshmi Bhagat # add your name
-author-img: david-freeman.jpg # add your photo
-about-author: I am a software developer having completed my graduate degree in Computer Science. My interests lie in Data Science and Machine Learning internships and job opportunities. Has a passion to keep learning. A wannabe polymath # add description
-social-twitter: # add your Twitter handle
-social-facebook: # add your Facebook handle
+author: Vijayalakshmi Bhagat # add your name
+author-img: vizzy-bhagat.jpg # add your photo
+about-author: I am a software developer having completed my graduate degree, B.E. in Computer Science. My interests lie in Data Science and Machine Learning internships and job opportunities. Has a passion to keep learning. A wannabe polymath # add description
 social-github: vizzybhagat # add your Github handle
 social-linkedin: https://www.linkedin.com/in/vijayalakshmi-bhagat-40a90b14a/ # add your Linkedin handle
 social-email: vijayalakshmibhagat205@gmail.com # add your Email address
