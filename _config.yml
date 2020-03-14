@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Vijayalakshmi Bhagat # add your name
-author-img: assets/img/social_media.png # add your photo
+author-img: social_media.png # add your photo
 about-author: I am a software developer having completed my graduate degree, B.E. in Computer Science. My interests lie in Data Science and Machine Learning internships and job opportunities. Has a passion to keep learning. A wannabe polymath # add description
 social-twitter: anonymous #
 social-facebook: anonymous #
