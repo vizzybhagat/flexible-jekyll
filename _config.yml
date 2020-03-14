@@ -12,8 +12,10 @@ site-twitter: #if your site has a twitter account, enter it here
 author: Vijayalakshmi Bhagat # add your name
 author-img: vizzy-bhagat.jpg # add your photo
 about-author: I am a software developer having completed my graduate degree, B.E. in Computer Science. My interests lie in Data Science and Machine Learning internships and job opportunities. Has a passion to keep learning. A wannabe polymath # add description
+social-twitter: #
+social-facebook: #
 social-github: vizzybhagat # add your Github handle
-social-linkedin: https://www.linkedin.com/in/vijayalakshmi-bhagat-40a90b14a/ # add your Linkedin handle
+social-linkedin: vijayalakshmi-bhagat-40a90b14a/ # add your Linkedin handle
 social-email: vijayalakshmibhagat205@gmail.com # add your Email address
 
 # Disqus
